@@ -79,8 +79,8 @@ const RefundAndCancellationPolicy: React.FC<RefundAndCancellationPolicyProps> = 
                 <li>
                   If you face technical issues while accessing our courses, workshops, or services, please
                   first contact our support team at{" "}
-                  <a href="mailto:support@celtm.com" className="text-blue-600 hover:underline">
-                    support@celtm.com
+                  <a href="mailto:admin@celtm.com" className="text-blue-600 hover:underline">
+                    admin@celtm.com
                   </a>.
                 </li>
                 <li>Response time will be within 3 working days.</li>

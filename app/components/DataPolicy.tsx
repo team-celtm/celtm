@@ -87,7 +87,7 @@ const DataPolicy: React.FC<DataPolicyProps> = ({ isOpen, onClose }) => {
                 <ul className="list-disc list-inside mb-6 space-y-2">
                     <li>Consent is specific, informed, and freely given at the time of data collection.</li>
                     <li>Records of consent are securely maintained.</li>
-                    <li>Consent may be withdrawn anytime by contacting <a href="mailto:privacy@celtm.com" className="text-blue-600 hover:underline">privacy@celtm.com</a>.</li>
+                    <li>Consent may be withdrawn anytime by contacting <a href="mailto:admin@celtm.com" className="text-blue-600 hover:underline">admin@celtm.com</a>.</li>
                     <li>Services dependent on consent withdrawal may be limited, but withdrawal will not impact data lawfully processed before such withdrawal.</li>
                 </ul>
 
