@@ -51,6 +51,7 @@ const Navbar = () => {
               { name: "The Model", href: "/model" },
               { name: "Inside CELTM", href: "/insideceltm" },
               { name: "Engage", href: "/engage" },
+              { name: "Programs", href: "/programs/arc" },
               // { name: "Let's Talk", href: "/contact" },
             ].map((item) => (
               <Link
@@ -90,6 +91,7 @@ const Navbar = () => {
                 { name: "The Model", href: "/model" },
                 { name: "Inside CELTM", href: "/insideceltm" },
                 { name: "Engage", href: "/engage" },
+                 { name: "Programs", href: "/programs/arc" },
                 // { name: "Let's Talk", href: "/contact" },
               ].map((item) => (
                 <Link
