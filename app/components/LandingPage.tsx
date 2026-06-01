@@ -43,13 +43,13 @@ const LandingPage = () => {
                 <p className="text-base sm:text-lg md:text-2xl text-gray-200 max-w-3xl mx-auto leading-relaxed px-4 mb-4 drop-shadow-lg  font-bold">
                   We built the system that listens.
                 </p>
-                <p className="text-base sm:text-lg md:text-2xl text-gray-200 w-full text-center leading-relaxed px-4 drop-shadow-lg  whitespace-nowrap font-bold">
-                  CELTM is building INDIA'S First SKILL-BASED LLM<sup>*</sup> —
-                  An AI engine that translates
+                <p className="text-base sm:text-lg md:text-2xl text-gray-200 w-full text-center leading-relaxed px-4 drop-shadow-lg font-bold">
+                  CELTM is building an AI-powered Talent Intelligence Engine
+                  that helps transform
                   <br />
-                  <span className="font-bold text-white">
-                    KNOWLEDGE INTO EMPLOYABILITY.
-                  </span>{" "}
+                  <span className="text-white">
+                    LEARNING INTO EMPLOYABILITY.
+                  </span>
                 </p>
                 <br />
                 <p className="text-base sm:text-lg md:text-2xl text-gray-200 max-w-3xl mx-auto leading-relaxed px-4 drop-shadow-lg  font-bold">
